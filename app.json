@@ -1,6 +1,6 @@
 {
-  "name": "Kochubot",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "Brenzo",
+  "description": "Telegram powerful bot to manage and control groups",
   "logo": "https://telegra.ph/file/1925c7a2f601539ccde7a.png",
   "keywords": [
     "telegram",
@@ -19,15 +19,15 @@
       "value": "ANYTHING"
     },
     "TOKEN": {
-      "description": "Your bot token, as a string."
+      "description": "Your bot token from @BotFather"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "20516707"
+      "value": "1613668151"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "SonOfLars"
+      "value": "Kunaldiwan"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -54,7 +54,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/PaulSonOfLars"
+      "value": "https://www.paypal.me/kunaldiwan1"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
