@@ -147,7 +147,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                      [InlineKeyboardButton(text="🎬 Youtube Channel", url="https://youtube.com/channel/UCblGiyplvlcBJi89DGcY2lA"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
-        update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
+        update.effective_message.reply_text("Not dead ...")
 
 
 # for test purposes
