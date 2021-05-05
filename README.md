@@ -2,7 +2,7 @@
 
 # Amazing Techz Bot 
 
- Telegram Python bot .
+## Telegram Python bot .
 
 Amazing group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
