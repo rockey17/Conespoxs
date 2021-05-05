@@ -9,7 +9,7 @@ simple to use.
 
 Can be found on telegram as [Amazing Techz](https://t.me/AmazingTechzBot).
 
-Join the [Updates channel](https://t.me/AmazingTechz) to get more bots and news about bots .  
+Join the [Updates channel](https://t.me/Amazing_Techz) to get more bots and news about bots .  
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
