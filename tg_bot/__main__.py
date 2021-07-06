@@ -21,11 +21,11 @@ PM_START_TEXT = """
 
 Hello {} My name is {}! - I am pro group manager bot . 
 
-I can help you to manage your groups easily . 
+I can help you to manage your groups easily and fastly. 
 
-Hit /help to know about my modules .
+Hit /help to know How to use me .
 
-This Bot is part of @AmazingTechz. 
+Note - you need To make Bot Admin In Your Group To Start Working On your Group 
 
 """
 
@@ -45,7 +45,7 @@ the things I can help you with.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """I am rich 💸, Then also if you want to donate so pay me via [Paypal](https://www.paypal.me/kunaldiwan1) ."""
+DONATE_STRING = """Thanks for using me, if you want to donate for server fees pay me via Crypto My Usdt trc-20 Address TXjCBuHKHiZCQqedJRRu46rXPqGAvPtCAt [crypto](https://en.wikipedia.org/wiki/Cryptocurrency) ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
