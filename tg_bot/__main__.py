@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hello {} My name is {}! - I am pro group manager bot . 
+Hello {} Me madeconespoxs is {}! - I am pro group manager bot . 
 
 I can help you to manage your groups easily and fastly. Coded With Python.
 
